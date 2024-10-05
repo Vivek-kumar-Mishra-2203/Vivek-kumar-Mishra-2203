@@ -15,6 +15,7 @@
 ###
 
 <h2 align="center">Hey👋 Myself Vivek! as a Python developer</h2>
+<h3 align="center">Python developer</h3>
 
 ###
 
@@ -45,7 +46,7 @@
 
 ###
 
-<p align="center">-I'm Vivek Kumar Mishra<br>A passionate developer with a strong background , love creating innovative solutions and tackling challenging projects...<br><br>- 🔭 I’m Vivek, hailing from the small village of Amarpatna in Satna, Madhya Pradesh. I completed my schooling at Army School in Kota and Kendriya Vidyalaya in Ambala Cantt, as well as in Chhatarpur. Currently, I am pursuing my college education in the Computer Science stream at Samrat Ashok Technological Institute in Vidisha, MP...<br><br>- 📚 I'm currently diving into advanced Python, mastering data analysis with Pandas, and leveling up my MySQL skills for efficient database solutions. I'm also exploring React for front-end development, aiming to create seamless web applications and enhance my full-stack deployment skills...<br><br>- ⚡ In my free time, I embrace adventure through hikes and biking 🚴‍♂️, dive into new skills like coding 💻 and cooking 🍳, volunteer in my community 🤝, read 📚, and work on personal projects. I also enjoy outdoor and indoor games 🏞️🎮, painting patterns 🎨, and listening to music 🎶 to fuel my creativity and personal growth...</p>
+<p align="center">Roots: Vivek kumar mishra from Amarpatna, Satna<br>Education: Army School in Kota, Kendriya Vidyalaya in Ambala & Chhatarpur; now studying Computer Science at Samrat Ashok Technological Institute, Vidisha.<br><br>Tech Skills:<br>Advanced Python & Pandas for data analysis.<br>MySQL for database efficiency.<br>Exploring React for seamless web development.<br><br>Passions:<br>Adventure through hiking and biking 🚴‍♂️.<br>Learning coding 💻 and cooking 🍳.<br>Volunteering in the community 🤝.<br>Reading 📚 and personal projects.<br>Enjoying outdoor & indoor games 🏞️🎮.<br>Painting 🎨 and listening to music 🎶 for creativity.</p>
 
 ###
 
