@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">Hey👋 Myself Vivek! </h2>   <h2 align="center">aPython developer</h2>
+<h2 align="center">Hey👋 Myself Vivek! </h2> <h2 align="center">A Python developer</h2>
 
 ###
 
