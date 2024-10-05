@@ -133,6 +133,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vivek-kumar-Mishra-2203/Vivek-kumar-Mishra-2203/output/snake.svg" alt="Snake animation" />
-
-###
